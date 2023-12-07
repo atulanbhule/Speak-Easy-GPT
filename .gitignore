@@ -1,0 +1,61 @@
+# Virtual Environment
+venv/
+.env
+
+# Byte-compiled files
+*.pyc
+*.pyo
+__pycache__/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Compiled Python files
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyz
+*.pyw
+*.pyo
+*.pyc
+__pycache__/
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Configuration files
+.env
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Flask
+instance/
+.webassets-cache
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Pytest
+__pycache__/
+*.pyc
+*.pyo
+
+# Python tools
+pip-wheel-metadata/
